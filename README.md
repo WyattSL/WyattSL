@@ -21,7 +21,7 @@
 ***
 
 I'm a self-proclaimed expert in Javascript (+NodeJS)<br>
-I'm at a advanced level in SKript, HTML, PHP, SQL, [Greyscript](https://github.com/WyattSL/greyscript), and Lua.<br>
+I'm at a advanced level in Skript, HTML, PHP, SQL, [Greyscript](https://github.com/WyattSL/greyscript), and Lua.<br>
 I'm intermediate in Python, Java, C++, CSS, and Bash.
 
 ***
