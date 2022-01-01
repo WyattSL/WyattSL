@@ -59,7 +59,7 @@ Sometime between 2020 and 2021, I began working on a [Visual Studio Code extensi
 After in-person school did start back around, my robotics team did take a hit. We did have a *somewhat* functional robot in the end, although we didn't qualify for states- we *did* come close, as tournament semifinalists.
 
 #### 2021
-And here we are today! What ever will I put here?
+This year I took on alot of Grey Hack projects, and used [Liquid](https://github.com/Shopify/liquid) to create a [API Reference for Greyscript](https://wyattsl.github.io/greydocs/api). Not much happened this year.
 
 ***
 
