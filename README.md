@@ -31,7 +31,7 @@ I'm intermediate in Python, Java, C++, CSS, and Bash.
 Hello! My name is Wyatt. I have been fond of programming since 2015.
 
 #### 2015
-At 9 years old, I began teaching myself Batch, and making simple programs in it. This was my first introduction to any kind of programming.
+At 8 years old, I began teaching myself Batch, and making simple programs in it. This was my first introduction to any kind of programming.
 
 #### 2016
 Sometime in 2016, I began teaching myself Javascript, and running it natively on Windows. ("Microsoft Windows Script Host")<br>
