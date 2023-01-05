@@ -61,6 +61,9 @@ After in-person school did start back around, my robotics team did take a hit. W
 #### 2021
 This year I took on alot of Grey Hack projects, and used [Liquid](https://github.com/Shopify/liquid) to create a [API Reference for Greyscript](https://wyattsl.github.io/greydocs/api). Not much happened this year.
 
+#### 2022
+This year I began working on a few private web development tasks, and using it learned the basics of Bootstrap and jQuery. I also did lots of work in system administration, and am considering it as a future career.
+
 ***
 
 ## Contact or follow me
